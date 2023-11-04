@@ -7,3 +7,7 @@ Clean and intuitive user interface.
 Responsive design for various screen sizes.
 CSS enhancements for a polished look and feel.
 Ready-to-use template for integrating payments into web applications.
+
+#Image
+
+![Image](https://github.com/alfiyafatima09/Payment_form/blob/main/payment-form.png)
